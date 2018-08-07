@@ -1,0 +1,4 @@
+#Wed Jul 25 16:59:13 KST 2018
+base.0=C\:\\Users\\wearable\\Downloads\\DoIt_Android_Source_Rev50\\Part2\\chapter11\\allsensor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
