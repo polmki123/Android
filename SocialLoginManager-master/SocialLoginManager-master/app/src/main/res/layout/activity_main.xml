@@ -1,0 +1,45 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#555"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/fbLoginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#3b5998"
+        android:text="Log in with Facebook"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/googleLoginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:background="#fff"
+        android:text="Log in with Google"
+        android:textAllCaps="false"
+        android:textColor="#555"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/igLoginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#fff"
+        android:text="Log in with Instagram"
+        android:textAllCaps="false"
+        android:textColor="#555"
+        android:textStyle="bold" />
+
+</LinearLayout>
